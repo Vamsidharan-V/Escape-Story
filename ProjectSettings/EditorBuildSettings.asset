@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/VR Beginner/Scenes/Final/EscapeRoom.unity
     guid: 0f290611f0f8be4419d06b71aba4e36a
+  - enabled: 0
+    path: Assets/Scenes/Story Mode.unity
+    guid: 6679ba46f35df2745938bd7e233b6ac6
+  - enabled: 0
+    path: Assets/Scenes/Scene - 0.unity
+    guid: 782485ba2ad265043a4a89c03b76300c
+  - enabled: 0
+    path: Assets/Scenes/Scene -1 The Unknown Library.unity
+    guid: fffc368ce7c545240a157d1fa3ce0e97
+  - enabled: 1
+    path: Assets/Scenes/Scene - 2.unity
+    guid: 75ef0d4b1de37614488b333e03c01efe
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
       type: 2}
