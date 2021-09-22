@@ -1,0 +1,375 @@
+{
+  "uid": "95ee5c76e08442a5ad00e2b02a8270b9",
+  "slug": "flying-magic-book",
+  "user": {
+    "uid": "cf3e0f4f84bb43278de79e6d93675ee4",
+    "username": "organizationx",
+    "displayName": "Organization",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/organizationx",
+    "avatars": {
+      "uid": "faa59bc29a96478a98244dc85804a0e5",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 811,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/c880f6e9965b420582e3f28ad3ea88a2.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1296,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/33b94fc17f15418cb611b1087219e109.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3513,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/42485db480654ac894b7de324c8a3574.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4143,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/9a8dc92822a744018e9699a6a9b8e628.jpeg"
+        }
+      ]
+    }
+  },
+  "name": "Flying Magic Book",
+  "description": "****Modeling*** -> Blender\n****Painted*** ->  Substance Painter\n****Rigged*** -> Blender\n\nThe book is well animated, but it is unlikely that if you close it completely you will get something adequate.",
+  "htmlDescription": "<p><strong><em>*Modeling</em></strong> -&gt; Blender\n<strong><em>*Painted</em></strong> -&gt;  Substance Painter\n<strong><em>*Rigged</em></strong> -&gt; Blender</p>\n<p>The book is well animated, but it is unlikely that if you close it completely you will get something adequate.</p>",
+  "thumbnails": {
+    "uid": "0ecc4b1ce8174bf6b84142e4635364bc",
+    "images": [
+      {
+        "uid": "70642034773845419a4cd7ac54bee28c",
+        "width": 720,
+        "height": 405,
+        "size": 35057,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/ec9c2142e7a54ba6b354612ca9a0a256.jpeg"
+      },
+      {
+        "uid": "af87593f04704a2882dbddbdb62bbdf3",
+        "width": 1920,
+        "height": 1080,
+        "size": 186429,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/1cc157f3d4da4b75bc110527c14213c2.jpeg"
+      },
+      {
+        "uid": "385b74fa93bd4803a1a327a48742eb5e",
+        "width": 1024,
+        "height": 576,
+        "size": 61870,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/2f72cd2b6cb14ca1a54b62f3f25fb062.jpeg"
+      },
+      {
+        "uid": "ab0c27c869ec46d9aa5c2d759ca2e2ce",
+        "width": 256,
+        "height": 144,
+        "size": 6284,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/30d7b2c0764c4ea096c25244ed7e9049.jpeg"
+      },
+      {
+        "uid": "eea023e6d81c4cb0a15b7cd3e7c6b0f7",
+        "width": 64,
+        "height": 36,
+        "size": 952,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/c1172907e5ce4a0a86d939fe292e8697.jpeg"
+      }
+    ]
+  },
+  "vertexCount": 1461,
+  "faceCount": 2844,
+  "viewCount": 1850,
+  "likeCount": 40,
+  "animationCount": 1,
+  "staffpickedAt": null,
+  "publishedAt": "2019-01-10T21:30:52.586677",
+  "createdAt": "2019-01-09T20:35:21.758548",
+  "tags": [
+    "substancepainter",
+    "substance",
+    "book",
+    "blender",
+    "hand-painted",
+    "rigged",
+    "magic"
+  ],
+  "orgTags": [],
+  "categories": [
+    {
+      "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+      "name": "Furniture & Home",
+      "slug": "furniture-home"
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military"
+    }
+  ],
+  "license": {
+    "uid": "5b54cf13b1a4422ca439696eb152070d",
+    "label": "Editorial",
+    "fullname": "Editorial",
+    "slug": "ed",
+    "summary": "Editorial",
+    "requirements": "Use only in connection with events that are newsworthy or of public interest",
+    "url": "https://sketchfab.com/licenses",
+    "free": false,
+    "needsAttribution": false,
+    "ccClauses": null
+  },
+  "viewerUrl": "https://sketchfab.com/3d-models/flying-magic-book-95ee5c76e08442a5ad00e2b02a8270b9",
+  "embedUrl": "https://sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/embed",
+  "editorUrl": "https://sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/edit",
+  "reviewUrl": "https://sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/review",
+  "publicCommentCount": 1,
+  "orgCommentCount": 0,
+  "isDownloadable": false,
+  "downloadType": "store",
+  "isInspectable": true,
+  "downloadCount": 22,
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "isPublished": true,
+  "originalFileName": "model",
+  "processingStatus": 2,
+  "archiveSize": 259884,
+  "ext": "fbx",
+  "isDeleted": false,
+  "isRestricted": false,
+  "processedAt": "2019-01-10T21:08:25.51122",
+  "files": [
+    {
+      "uid": "72a33d7479324791949dcaafe0e7047f",
+      "flag": 0,
+      "osgjsUrl": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/61c8587e0859494d9d03f6636fcf4953/files/72a33d7479324791949dcaafe0e7047f/file.osgjs.gz",
+      "modelSize": 78984,
+      "osgjsSize": 209657,
+      "wireframeSize": 12420
+    }
+  ],
+  "metadata": {
+    "quad": 1422,
+    "triangle": 0,
+    "polygon": 0,
+    "line": 0,
+    "point": 0,
+    "totalTriangle": 2844,
+    "vertexCount": 1461,
+    "hasNormal": true,
+    "hasTangent": false,
+    "hasVertexColor": false,
+    "pbrType": null,
+    "textureCount": 13,
+    "materialCount": 6,
+    "isRigged": true,
+    "morph": 0,
+    "scale": true,
+    "animation": 1,
+    "uvMapped": true,
+    "sourceFiles": {
+      "3d": [
+        {
+          "version": "",
+          "filepath": "source/model.fbx",
+          "filesize": 259884,
+          "extension": "fbx",
+          "fileformat": "Autodesk FBX"
+        }
+      ],
+      "misc": [],
+      "count": 1,
+      "image": []
+    },
+    "textureFiles": [
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/book_AO.jpeg",
+        "filesize": 845217,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/book_albedo.jpeg",
+        "filesize": 932845,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_1_AO.jpeg",
+        "filesize": 49436,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_1_albedo.jpeg",
+        "filesize": 1819356,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_1_emissive.jpeg",
+        "filesize": 1925783,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_1_opacity.jpeg",
+        "filesize": 859090,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_2_AO.jpeg",
+        "filesize": 49442,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_2_emissive.jpeg",
+        "filesize": 2137593,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/circle_2_opacity.jpeg",
+        "filesize": 824554,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/page_1_albedo.jpeg",
+        "filesize": 1468579,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/page_1_emissive.jpeg",
+        "filesize": 1852958,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/page_2_albedo.jpeg",
+        "filesize": 523304,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 2048,
+        "format": "RGB",
+        "height": 2048,
+        "is8bit": true,
+        "filepath": "textures/page_3_albedo.jpeg",
+        "filesize": 582027,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      }
+    ]
+  },
+  "price": 499,
+  "inStore": true,
+  "averageRating": 0.0,
+  "reviewCount": 0,
+  "preferOriginalNormalMap": false,
+  "isDisabled": false,
+  "exporter": null,
+  "displayStatus": "ok",
+  "version": {
+    "uid": "61c8587e0859494d9d03f6636fcf4953",
+    "status": {
+      "warning": {},
+      "processing": "SUCCEEDED"
+    },
+    "isCurrentVersion": true,
+    "isCandidateVersion": false,
+    "createdAt": "2019-01-10T21:06:31.977813",
+    "processedAt": "2019-01-10T21:08:25.48579",
+    "reason": "reupload"
+  },
+  "hasEnterpriseTracking": false,
+  "visibility": "public",
+  "org": null,
+  "isArEnabled": false,
+  "isArAvailable": false,
+  "archivesStatus": [
+    {
+      "type": "source",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "gltf",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "extra",
+      "exists": false,
+      "status": null
+    },
+    {
+      "type": "usdz",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "gltf-ar",
+      "exists": false,
+      "status": null
+    }
+  ]
+}

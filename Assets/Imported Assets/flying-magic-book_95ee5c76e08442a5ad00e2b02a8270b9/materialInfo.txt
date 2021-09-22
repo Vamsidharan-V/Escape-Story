@@ -1,0 +1,94 @@
+// Generated using SketchfabRipper v1.17.3 by revetix#9971
+
+Mesh "book_book_0" uses material "book" and has UniqueID "65"
+Mesh "page_1_page_1_0" uses material "page_1" and has UniqueID "90"
+Mesh "page_2_page_2_0" uses material "page_2" and has UniqueID "115"
+Mesh "page_3_page_3_0" uses material "page_3" and has UniqueID "140"
+Mesh "circle_2_circle_2_0" uses material "circle_2" and has UniqueID "208"
+Mesh "circle_1_circle_1_0" uses material "circle_1" and has UniqueID "226"
+
+Material "book" has ID b3700054-e6b1-47d0-9425-445db93dc0bd.
+	AO (UV0): book_AO.jpg
+	Albedo (UV0): book_albedo.jpg
+	Emission: 0|0|0
+	Normal (Flipped Y): 1
+	Specular F0: 0.5
+	Diffuse colour (UV0): book_albedo.jpg
+	Metalness (UV0): book_metallic.jpg
+	Roughness (UV0): book_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity (UV0): book_AO.jpg
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04
+
+Material "page_1" has ID 2824c219-7b64-410b-8c3a-09343ca2d992.
+	Albedo (UV0): page_1_albedo.jpg
+	Emission (UV0) (Factor=3.91979122161865): page_1_emissive.jpg
+	Specular F0: 0.5
+	Diffuse colour (UV0): page_1_albedo.jpg
+	Metalness (UV0): page_1_metallic.jpg
+	Roughness (UV0): page_1_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity: 1|1|1
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04
+
+Material "page_2" has ID 398e4b15-f6c4-4cec-9bc6-1da899bd90da.
+	Albedo (UV0): page_2_albedo.jpg
+	Emission: 0|0|0
+	Specular F0: 0.5
+	Diffuse colour (UV0): page_2_albedo.jpg
+	Metalness (UV0): page_2_metallic.jpg
+	Roughness (UV0): page_2_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity: 1|1|1
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04
+
+Material "page_3" has ID 24976714-4e1d-4279-bf62-5eef2991d35d.
+	Albedo (UV0): page_3_albedo.jpg
+	Emission: 0|0|0
+	Specular F0: 0.5
+	Diffuse colour (UV0): page_3_albedo.jpg
+	Metalness (UV0): page_3_metallic.jpg
+	Roughness (UV0): page_3_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity: 1|1|1
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04
+
+Material "circle_2" has ID a8764046-4f51-42ef-89d6-3ae10e86c52f.
+	AO (UV0): circle_2_AO.jpg
+	Opacity (alphaBlend) (LUMINANCE) (UV0): circle_2_opacity.jpg
+	Albedo: 0.5578535|0.7599744|1
+	Emission (UV0) (Factor=2.23229122161865): circle_2_emissive.jpg
+	Normal (Flipped Y): 1
+	Specular F0: 0.5
+	Diffuse colour (UV0): circle_2_albedo.jpg
+	Metalness (UV0): circle_2_metallic.jpg
+	Roughness (UV0): circle_2_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity (UV0): circle_2_AO.jpg
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04
+
+Material "circle_1" has ID 90424ff9-59de-44f0-9716-b542c7ab96ab.
+	AO (UV0): circle_1_AO.jpg
+	Opacity (alphaBlend) (LUMINANCE) (UV0): circle_1_opacity.jpg
+	Albedo (UV0): circle_1_albedo.jpg
+	Emission (UV0) (Factor=3.66979122161865): circle_1_emissive.jpg
+	Normal (Flipped Y): 1
+	Specular F0: 0.5
+	Diffuse colour (UV0): circle_1_albedo.jpg
+	Metalness (UV0): circle_1_metallic.jpg
+	Roughness (UV0): circle_1_roughness.jpg
+	Specular colour: 0.8|0.8|0.8
+	Diffuse intensity (UV0): circle_1_AO.jpg
+	Specular hardness: 25
+	Clear coat normal (Flipped Y): 1
+	Clear coat roughness: 0.04

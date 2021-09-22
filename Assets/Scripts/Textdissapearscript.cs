@@ -8,7 +8,7 @@ public class Textdissapearscript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+        AppearText.SetActive(false);
         
     }
 
@@ -23,7 +23,7 @@ public class Textdissapearscript : MonoBehaviour
     }
     IEnumerator DisappearT()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(5);
         AppearText.SetActive(false);
     }
 }

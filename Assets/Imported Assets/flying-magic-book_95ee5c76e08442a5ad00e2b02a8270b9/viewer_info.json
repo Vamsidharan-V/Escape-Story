@@ -1,0 +1,1974 @@
+{
+  "uid": "95ee5c76e08442a5ad00e2b02a8270b9",
+  "user": {
+    "uid": "cf3e0f4f84bb43278de79e6d93675ee4",
+    "username": "organizationx",
+    "displayName": "Organization",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/organizationx",
+    "avatars": {
+      "uid": "faa59bc29a96478a98244dc85804a0e5",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 811,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/c880f6e9965b420582e3f28ad3ea88a2.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1296,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/33b94fc17f15418cb611b1087219e109.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3513,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/42485db480654ac894b7de324c8a3574.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4143,
+          "url": "https://media.sketchfab.com/avatars/faa59bc29a96478a98244dc85804a0e5/9a8dc92822a744018e9699a6a9b8e628.jpeg"
+        }
+      ]
+    }
+  },
+  "name": "Flying Magic Book",
+  "description": "****Modeling*** -> Blender\n****Painted*** ->  Substance Painter\n****Rigged*** -> Blender\n\nThe book is well animated, but it is unlikely that if you close it completely you will get something adequate.",
+  "thumbnails": {
+    "uid": "0ecc4b1ce8174bf6b84142e4635364bc",
+    "images": [
+      {
+        "uid": "70642034773845419a4cd7ac54bee28c",
+        "width": 720,
+        "height": 405,
+        "size": 35057,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/ec9c2142e7a54ba6b354612ca9a0a256.jpeg"
+      },
+      {
+        "uid": "af87593f04704a2882dbddbdb62bbdf3",
+        "width": 1920,
+        "height": 1080,
+        "size": 186429,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/1cc157f3d4da4b75bc110527c14213c2.jpeg"
+      },
+      {
+        "uid": "385b74fa93bd4803a1a327a48742eb5e",
+        "width": 1024,
+        "height": 576,
+        "size": 61870,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/2f72cd2b6cb14ca1a54b62f3f25fb062.jpeg"
+      },
+      {
+        "uid": "ab0c27c869ec46d9aa5c2d759ca2e2ce",
+        "width": 256,
+        "height": 144,
+        "size": 6284,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/30d7b2c0764c4ea096c25244ed7e9049.jpeg"
+      },
+      {
+        "uid": "eea023e6d81c4cb0a15b7cd3e7c6b0f7",
+        "width": 64,
+        "height": 36,
+        "size": 952,
+        "url": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/thumbnails/0ecc4b1ce8174bf6b84142e4635364bc/c1172907e5ce4a0a86d939fe292e8697.jpeg"
+      }
+    ]
+  },
+  "viewCount": 1850,
+  "likeCount": 40,
+  "animationCount": 1,
+  "vertexCount": 1461,
+  "faceCount": 2844,
+  "staffpickedAt": null,
+  "publishedAt": "2019-01-10T21:30:52.586677",
+  "viewerUrl": "https://sketchfab.com/3d-models/flying-magic-book-95ee5c76e08442a5ad00e2b02a8270b9",
+  "embedUrl": "https://sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/embed",
+  "editorUrl": "https://sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/edit",
+  "license": {
+    "uid": "5b54cf13b1a4422ca439696eb152070d",
+    "label": "Editorial",
+    "fullname": "Editorial",
+    "slug": "ed",
+    "summary": "Editorial",
+    "requirements": "Use only in connection with events that are newsworthy or of public interest",
+    "url": "https://sketchfab.com/licenses",
+    "free": false,
+    "needsAttribution": false,
+    "ccClauses": null
+  },
+  "isPublished": true,
+  "isDownloadable": false,
+  "downloadType": "store",
+  "isInspectable": true,
+  "isDeleted": false,
+  "processingStatus": 2,
+  "processedAt": "2019-01-10T21:08:25.51122",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "isRestricted": false,
+  "files": [
+    {
+      "uid": "72a33d7479324791949dcaafe0e7047f",
+      "flag": 0,
+      "osgjsUrl": "https://media.sketchfab.com/models/95ee5c76e08442a5ad00e2b02a8270b9/61c8587e0859494d9d03f6636fcf4953/files/72a33d7479324791949dcaafe0e7047f/file.osgjs.gz",
+      "modelSize": 78984,
+      "osgjsSize": 209657,
+      "wireframeSize": 12420
+    }
+  ],
+  "options": {
+    "scene": {
+      "postProcess": {
+        "dof": {
+          "enable": false,
+          "blurFar": 0.5,
+          "blurNear": 0.5,
+          "focusPoint": [
+            0,
+            0,
+            0
+          ]
+        },
+        "ssr": {
+          "enable": false,
+          "factor": 1
+        },
+        "taa": {
+          "enable": true,
+          "transparent": true
+        },
+        "ssao": {
+          "bias": 1.3941193822784304,
+          "enable": false,
+          "radius": 6.9705969113921515,
+          "intensity": 0.5
+        },
+        "bloom": {
+          "enable": true,
+          "factor": 0.13714285714285715,
+          "radius": 0.7,
+          "threshold": 0
+        },
+        "grain": {
+          "enable": false,
+          "factor": 0.15,
+          "animated": false
+        },
+        "enable": true,
+        "sharpen": {
+          "enable": true,
+          "factor": 0.2
+        },
+        "vignette": {
+          "amount": 0.475,
+          "enable": false,
+          "hardness": 0.725
+        },
+        "toneMapping": {
+          "enable": false,
+          "method": "default",
+          "contrast": 0,
+          "exposure": 1,
+          "brightness": 0,
+          "saturation": 1
+        },
+        "colorBalance": {
+          "low": [
+            0,
+            0,
+            0
+          ],
+          "mid": [
+            0,
+            0,
+            0
+          ],
+          "high": [
+            0,
+            0,
+            0
+          ],
+          "enable": true
+        },
+        "chromaticAberration": {
+          "enable": false,
+          "factor": 0.05
+        }
+      },
+      "sssProfiles": [
+        {
+          "falloff": [
+            1,
+            0.37,
+            0.3
+          ],
+          "strength": [
+            0.48,
+            0.41,
+            0.28
+          ]
+        },
+        {
+          "falloff": [
+            0.5,
+            0.67,
+            0.6
+          ],
+          "strength": [
+            0.38,
+            0.61,
+            0.68
+          ]
+        },
+        {
+          "falloff": [
+            0.7,
+            0.77,
+            0.3
+          ],
+          "strength": [
+            0.88,
+            0.61,
+            0.28
+          ]
+        }
+      ]
+    },
+    "lighting": {
+      "enable": false,
+      "lights": [
+        {
+          "type": "DIRECTION",
+          "angle": 45,
+          "color": [
+            0.7806122449,
+            0.7985214494,
+            1
+          ],
+          "enable": true,
+          "ground": [
+            0.3,
+            0.2,
+            0.2
+          ],
+          "matrix": [
+            -0.98158045,
+            0.1909922167,
+            -0.0046683273,
+            0,
+            0.135483471,
+            0.7131126062,
+            0.6878332937,
+            0,
+            0.1346998486,
+            0.6745312328,
+            -0.7258536814,
+            0,
+            0.10933614999999999,
+            0.1387843901,
+            -0.5891791894,
+            1
+          ],
+          "falloff": 3.7944083036,
+          "hardness": 0.5,
+          "intensity": 0.96,
+          "shadowBias": 0.005,
+          "castShadows": false,
+          "intensityGround": 1,
+          "attachedToCamera": false
+        },
+        {
+          "type": "DIRECTION",
+          "angle": 45,
+          "color": [
+            1,
+            0.878331945,
+            0.7091836735
+          ],
+          "enable": true,
+          "ground": [
+            0.3,
+            0.2,
+            0.2
+          ],
+          "matrix": [
+            0.7755211495,
+            -0.066660286,
+            0.6277924442,
+            0,
+            0.2690483737,
+            0.9344846523,
+            -0.2331338825,
+            0,
+            -0.5711216326,
+            0.3497067927,
+            0.7426474533,
+            0,
+            -0.4635823467,
+            -0.1248770808,
+            0.6028098404,
+            1
+          ],
+          "falloff": 3.7944083036,
+          "hardness": 0.5,
+          "intensity": 1,
+          "shadowBias": 0.005,
+          "castShadows": false,
+          "intensityGround": 1,
+          "attachedToCamera": false
+        },
+        {
+          "type": "DIRECTION",
+          "angle": 45,
+          "color": [
+            0.4234693878,
+            0.7352665556,
+            1
+          ],
+          "enable": true,
+          "ground": [
+            0.9642857143,
+            0.6484128637,
+            0.2607507289
+          ],
+          "matrix": [
+            0.6903299131,
+            -0.7076363669,
+            -0.1506498699,
+            0,
+            -0.0110896982,
+            0.197851373,
+            -0.980169298,
+            0,
+            0.7234097246,
+            0.6783108479,
+            0.1287352474,
+            0,
+            0.5871946259,
+            0.1418523208,
+            0.1044945191,
+            1
+          ],
+          "falloff": 3.7944083036,
+          "hardness": 0.5,
+          "intensity": 0.12,
+          "shadowBias": 0.005,
+          "castShadows": false,
+          "intensityGround": 0.06,
+          "attachedToCamera": false
+        }
+      ]
+    },
+    "shading": {
+      "type": "shadeless",
+      "renderer": "pbr",
+      "pointSize": 2,
+      "vertexColor": {
+        "enable": false,
+        "useAlpha": false,
+        "colorSpace": "srgb"
+      }
+    },
+    "orientation": {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "camera": {
+      "up": 1.555089,
+      "fov": 45,
+      "down": -1.555089,
+      "left": -3.141593,
+      "right": 3.141593,
+      "target": [
+        17.503411010405724,
+        3.6026877901086802,
+        -22.486959883674462
+      ],
+      "zoomIn": 0,
+      "zoomOut": 136,
+      "position": [
+        -153.75351069798845,
+        -297.50503451134847,
+        307.7642808794925
+      ],
+      "nearFarRatio": 0.005,
+      "usePanConstraints": true,
+      "useYawConstraints": false,
+      "useZoomConstraints": false,
+      "usePitchConstraints": false,
+      "useCameraConstraints": false
+    },
+    "wireframe": {
+      "color": "000000FF",
+      "enable": false
+    },
+    "materials": {
+      "updatedAt": 15471547749,
+      "24976714-4e1d-4279-bf62-5eef2991d35d": {
+        "id": "24976714-4e1d-4279-bf62-5eef2991d35d",
+        "name": "page_3",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": false,
+            "factor": 1,
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": false,
+            "factor": 1,
+            "invert": false,
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2c6f366fbc4c45beb36aa7d4925d1b28",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": false,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "2c6f366fbc4c45beb36aa7d4925d1b28",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2c6f366fbc4c45beb36aa7d4925d1b28",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "f8a1e488cb36487ab2547448bf527918",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2022701babb347b88fc77bfcffa46451",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.37,
+              0.3
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 4
+      },
+      "2824c219-7b64-410b-8c3a-09343ca2d992": {
+        "id": "2824c219-7b64-410b-8c3a-09343ca2d992",
+        "name": "page_1",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": false,
+            "factor": 1,
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": false,
+            "factor": 1,
+            "invert": false,
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "30bdb59d71db45f4876d556b52e7b990",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "enable": true,
+            "factor": 3.9197912216186523,
+            "texture": {
+              "uid": "f20ec203f21b40ab954ffa21cccdc1da",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": false,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "30bdb59d71db45f4876d556b52e7b990",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "30bdb59d71db45f4876d556b52e7b990",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "abf95899cd3742b6a57440ae8d4711da",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "0ebd1c8554de4f78ac57402472a77fb7",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.36999999999999983,
+              0.29999999999999982
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 2
+      },
+      "398e4b15-f6c4-4cec-9bc6-1da899bd90da": {
+        "id": "398e4b15-f6c4-4cec-9bc6-1da899bd90da",
+        "name": "page_2",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": false,
+            "factor": 1,
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": false,
+            "factor": 1,
+            "invert": false,
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "800d152febe7446fb20d9481ca2ae443",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": false,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "800d152febe7446fb20d9481ca2ae443",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "800d152febe7446fb20d9481ca2ae443",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "d0f5df2b9a6d4df9be4789119c4e05f0",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "bdb2db53260f492f8b83bdd7a6102fb6",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.37,
+              0.3
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 3
+      },
+      "90424ff9-59de-44f0-9716-b542c7ab96ab": {
+        "id": "90424ff9-59de-44f0-9716-b542c7ab96ab",
+        "name": "circle_1",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "b684fb1c710940479f441ec9cd6457c1",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            },
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": true,
+            "factor": 1,
+            "invert": false,
+            "texture": {
+              "uid": "2b0a7c6e804b4d09ab214847f28a3d1e",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            },
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "31955e922e0f4263a1a49cd51d708438",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "enable": true,
+            "factor": 3.6697912216186523,
+            "texture": {
+              "uid": "a8180a8df71146f9931e305a1f67bb93",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "31955e922e0f4263a1a49cd51d708438",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "31955e922e0f4263a1a49cd51d708438",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "bb64302c496144948a7f9c1802c87b4e",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "5c22ec75155342488fe355f345147038",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "b684fb1c710940479f441ec9cd6457c1",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.36999999999999983,
+              0.29999999999999982
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 6
+      },
+      "a8764046-4f51-42ef-89d6-3ae10e86c52f": {
+        "id": "a8764046-4f51-42ef-89d6-3ae10e86c52f",
+        "name": "circle_2",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "1b99cd29d54348b992971e1952961de2",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            },
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": true,
+            "factor": 1,
+            "invert": false,
+            "texture": {
+              "uid": "5264e890c4ca404097983b221a3a9777",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            },
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "color": [
+              0.55785347107502636,
+              0.75997442492181011,
+              1
+            ],
+            "enable": true,
+            "factor": 1
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "enable": true,
+            "factor": 2.2322912216186523,
+            "texture": {
+              "uid": "95f35dc8b703413c81851a9c71074996",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "df18b215bbd84c97ad68481436af6600",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "df18b215bbd84c97ad68481436af6600",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2d4d949d80ce483eb971257aa7c93ad3",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "b518496b353648feb3844608adbabc15",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "1b99cd29d54348b992971e1952961de2",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.36999999999999983,
+              0.29999999999999982
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 5
+      },
+      "b3700054-e6b1-47d0-9425-445db93dc0bd": {
+        "id": "b3700054-e6b1-47d0-9425-445db93dc0bd",
+        "name": "book",
+        "version": 3,
+        "channels": {
+          "AOPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2d6827097ad14960a18844e3a803af30",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            },
+            "occludeSpecular": false
+          },
+          "Matcap": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "35c4d334eded44d8a657f390954a32dd",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            },
+            "curvature": 0
+          },
+          "BumpMap": {
+            "enable": false,
+            "factor": 1
+          },
+          "Opacity": {
+            "ior": 1.05,
+            "type": "alphaBlend",
+            "enable": false,
+            "factor": 1,
+            "invert": false,
+            "thinLayer": false,
+            "useAlbedoTint": false,
+            "refractionColor": [
+              1,
+              1,
+              1
+            ],
+            "roughnessFactor": 0,
+            "useNormalOffset": false,
+            "useMicrosurfaceTexture": true
+          },
+          "AlbedoPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "cc8172e3b916481aa3169db2c04b1ebb",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "CavityPBR": {
+            "enable": false,
+            "factor": 1
+          },
+          "ClearCoat": {
+            "tint": [
+              0.914,
+              0.914,
+              0.914
+            ],
+            "enable": false,
+            "factor": 1,
+            "thickness": 5,
+            "reflectivity": 0
+          },
+          "EmitColor": {
+            "type": "additive",
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0
+          },
+          "NormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "flipXY": true,
+            "direction": 0
+          },
+          "DiffusePBR": {
+            "enable": false,
+            "factor": 1,
+            "texture": {
+              "uid": "cc8172e3b916481aa3169db2c04b1ebb",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularF0": {
+            "enable": true,
+            "factor": 0.5
+          },
+          "SpecularPBR": {
+            "color": [
+              1,
+              1,
+              1
+            ],
+            "enable": false,
+            "factor": 0.05
+          },
+          "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "cc8172e3b916481aa3169db2c04b1ebb",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "Displacement": {
+            "enable": false,
+            "factor": 0
+          },
+          "MetalnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "9d3a50a7f8a74d549a206c2c00c5caea",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "RoughnessPBR": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "822b8a1e286f401286f38025024edc57",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "LUMINANCE"
+            }
+          },
+          "GlossinessPBR": {
+            "enable": false,
+            "factor": 0.1788854382
+          },
+          "SpecularColor": {
+            "color": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "enable": true,
+            "factor": 0.25
+          },
+          "DiffuseIntensity": {
+            "enable": true,
+            "factor": 1,
+            "texture": {
+              "uid": "2d6827097ad14960a18844e3a803af30",
+              "wrapS": "REPEAT",
+              "wrapT": "REPEAT",
+              "magFilter": "LINEAR",
+              "minFilter": "LINEAR_MIPMAP_LINEAR",
+              "texCoordUnit": 0,
+              "textureTarget": "TEXTURE_2D",
+              "internalFormat": "RGB"
+            }
+          },
+          "SpecularHardness": {
+            "enable": true,
+            "factor": 25
+          },
+          "ClearCoatNormalMap": {
+            "flipY": true,
+            "enable": true,
+            "factor": 1
+          },
+          "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+          },
+          "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0507315334,
+            "profile": 1
+          },
+          "SubsurfaceTranslucency": {
+            "color": [
+              1,
+              0.37,
+              0.3
+            ],
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0507315334
+          }
+        },
+        "cullFace": "DISABLE",
+        "shadeless": false,
+        "reflection": 0.1,
+        "stateSetID": 1
+      }
+    },
+    "environment": {
+      "uid": "4eda3e78ed214dc8852c439dc64b9c9d",
+      "blur": 0.1,
+      "enable": false,
+      "exposure": 0.73177,
+      "rotation": 0,
+      "shadowBias": 0.005,
+      "shadowEnable": true,
+      "lightIntensity": 1,
+      "backgroundExposure": 1
+    },
+    "background": {
+      "uid": "51af6a870cce449eb75b0345feebaebb",
+      "color": [
+        0.037913612950121627,
+        0.16569192537511368,
+        0.14390690861670363
+      ],
+      "enable": "color"
+    },
+    "version": 9,
+    "animation": {
+      "order": [
+        "79da902d2d67413a9cf4a3bff9cff7c7"
+      ],
+      "speed": 1,
+      "cycleMode": "one",
+      "initializeWithRestPose": false
+    },
+    "hotspot": {
+      "visible": true,
+      "hotspots": []
+    },
+    "vr": {
+      "floorHeight": -0.5747090161,
+      "worldFactor": 0.507315334,
+      "displayFloor": true,
+      "initialCamera": {
+        "position": [
+          -3.278E-07,
+          -1.6262924718,
+          -0.5747090161
+        ],
+        "rotation": [
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "sound": [],
+    "ground": {
+      "fade": 0.25,
+      "scale": 1.521946002,
+      "enable": false,
+      "opacity": 1,
+      "position": [
+        -3.278E-07,
+        -0.4087356702,
+        -0.5745940744
+      ],
+      "shadowMode": "ShadowCatcher",
+      "samplingRange": 0.6
+    },
+    "createdAt": "2019-01-10T21:06:31.977813",
+    "updatedAt": "2019-09-26T08:25:35.555386"
+  },
+  "preferOriginalNormalMap": false,
+  "inStore": true,
+  "isDisabled": false,
+  "displayStatus": "ok",
+  "hasEnterpriseTracking": false,
+  "visibility": "public",
+  "org": null,
+  "isArEnabled": false,
+  "version": {
+    "uid": "61c8587e0859494d9d03f6636fcf4953",
+    "status": {
+      "warning": {},
+      "processing": "SUCCEEDED"
+    },
+    "isCurrentVersion": true,
+    "isCandidateVersion": false,
+    "createdAt": "2019-01-10T21:06:31.977813",
+    "processedAt": "2019-01-10T21:08:25.48579",
+    "reason": "reupload"
+  },
+  "soundCount": 0
+}
