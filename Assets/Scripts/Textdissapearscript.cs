@@ -23,7 +23,8 @@ public class Textdissapearscript : MonoBehaviour
     }
     IEnumerator DisappearT()
     {
-        yield return new WaitForSeconds(5);
+        AppearText.SetActive(true);
+        yield return new WaitForSeconds(10);
         AppearText.SetActive(false);
     }
 }
