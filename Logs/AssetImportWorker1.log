@@ -1,0 +1,535 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8033 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/UnityProjects/Escape Story
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57921
+Successfully changed project path to: D:/UnityProjects/Escape Story
+D:/UnityProjects/Escape Story
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 257.31 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 7.74 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/Escape Story/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6280
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004575 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 402.35 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 0.34 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.156 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8157ms)
+		BeginReloadAssembly (201ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (2269ms)
+			LoadAssemblies (192ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (759ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (145ms)
+			SetupLoadedEditorAssemblies (1006ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (403ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (368ms)
+				ProcessInitializeOnLoadMethodAttributes (136ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.040785 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 316.71 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in D:\UnityProjects\Escape Story\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in D:\UnityProjects\Escape Story\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00047] in <d0e4b8c1204147f3935b6e9c8b8565ad>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.945 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5947ms)
+		BeginReloadAssembly (369ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (5218ms)
+			LoadAssemblies (1193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1483ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (341ms)
+			SetupLoadedEditorAssemblies (1732ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (317ms)
+				BeforeProcessingInitializeOnLoad (328ms)
+				ProcessInitializeOnLoadAttributes (966ms)
+				ProcessInitializeOnLoadMethodAttributes (85ms)
+				AfterProcessingInitializeOnLoad (20ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.84 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 0.26 ms.
+Unloading 3680 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.1 MB.
+System memory in use after: 168.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4135.
+Total: 16.477600 ms (FindLiveObjects: 0.717500 ms CreateObjectMapping: 0.481300 ms MarkObjects: 15.119500 ms  DeleteObjects: 0.155700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/SphereZone.mat
+  artifactKey: Guid(5fe7fcef03eac3246bcafbee504b5ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SphereZone.mat using Guid(5fe7fcef03eac3246bcafbee504b5ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534e7eee6469a92eafd2269c234c8029') in 2.173365 seconds 
+  Import took 2.214305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2241.496693 seconds.
+  path: Assets/Scenes/Scene -1 The Unknown Library.unity
+  artifactKey: Guid(fffc368ce7c545240a157d1fa3ce0e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene -1 The Unknown Library.unity using Guid(fffc368ce7c545240a157d1fa3ce0e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b190c95707c97eb55587f3d0ff28be35') in 0.031235 seconds 
+  Import took 0.398774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.076098 seconds.
+  path: Assets/Scenes/Scene - 1.unity
+  artifactKey: Guid(bec581136d874eb4fb47f51f7d491024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene - 1.unity using Guid(bec581136d874eb4fb47f51f7d491024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c3de8daba8d3d6f32365bdc932b10b') in 0.006798 seconds 
+  Import took 0.068472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.478393 seconds.
+  path: Assets/Scenes/Story Mode.unity
+  artifactKey: Guid(6679ba46f35df2745938bd7e233b6ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Story Mode.unity using Guid(6679ba46f35df2745938bd7e233b6ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5f7ffcbe0a670732e8711fd07f3532') in 0.008162 seconds 
+  Import took 0.113013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.897265 seconds.
+  path: Assets/Materials/SphereZone.mat
+  artifactKey: Guid(5fe7fcef03eac3246bcafbee504b5ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SphereZone.mat using Guid(5fe7fcef03eac3246bcafbee504b5ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b070dbd3e01589d6d9dcaeb649b236f7') in 0.089492 seconds 
+  Import took 0.192688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.780814 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures
+  artifactKey: Guid(e0766dac2ea3a5447adaf41b27df4c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures using Guid(e0766dac2ea3a5447adaf41b27df4c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5bdac8f6872b17e5be0cd408b2d851') in 0.016138 seconds 
+  Import took 0.119474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.563253 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/Cb.png
+  artifactKey: Guid(1ca01bc7f960ca449a698c5a51af9f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/Cb.png using Guid(1ca01bc7f960ca449a698c5a51af9f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6007ab5767008fb2c86db3306b20dd77') in 0.256343 seconds 
+  Import took 0.434471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/the book texture.png
+  artifactKey: Guid(cd9ff9fc51f374941934237aedf94aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/the book texture.png using Guid(cd9ff9fc51f374941934237aedf94aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f8100f2b38691e921cbfa6e014f247') in 0.112724 seconds 
+  Import took 0.130299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/door texture 3.png
+  artifactKey: Guid(d428a86effda3254cbdd214d03890a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/door texture 3.png using Guid(d428a86effda3254cbdd214d03890a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efbd23c891bc2c90e94c213e2370dce') in 0.041372 seconds 
+  Import took 0.060060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/the chandelier hand.png
+  artifactKey: Guid(cd3c2f0640e9b83499ff1f968b785b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/the chandelier hand.png using Guid(cd3c2f0640e9b83499ff1f968b785b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aedf26c055f3931faac23c600e81277') in 0.016196 seconds 
+  Import took 0.030147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/the chandelier.png
+  artifactKey: Guid(f8981b2722a8a6746ba878eef42c0006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/the chandelier.png using Guid(f8981b2722a8a6746ba878eef42c0006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186890fcb625eb5b64fc1cb477ba5ba6') in 0.032420 seconds 
+  Import took 0.041930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/door texture 2.png
+  artifactKey: Guid(2621688afa3fd5648872b26e49e00672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/door texture 2.png using Guid(2621688afa3fd5648872b26e49e00672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7c87781830ed0fc28ac95fbc9d1633') in 0.044949 seconds 
+  Import took 0.108284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.781593 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window
+  artifactKey: Guid(aa52047901eead8478493e68913050b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window using Guid(aa52047901eead8478493e68913050b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b263900f0de1c4c5d9ce1ce115d456f') in 0.007583 seconds 
+  Import took 0.030916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070761 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Mixed_AO.png
+  artifactKey: Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Mixed_AO.png using Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05762a0dc6de531fc3d8766f8f2f79d') in 0.079767 seconds 
+  Import took 0.153680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Normal.png
+  artifactKey: Guid(7e0545427c75da245b842585d8e155d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Normal.png using Guid(7e0545427c75da245b842585d8e155d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39f4c04dc53e52161f1bf9f7ef4a893') in 0.102438 seconds 
+  Import took 0.158924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Roughness.png
+  artifactKey: Guid(aa90943cc567f004d8a93c8013376cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Roughness.png using Guid(aa90943cc567f004d8a93c8013376cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4533dcda84422cddfba17b9bf674c7') in 0.100288 seconds 
+  Import took 0.156052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Mixed_AO.png
+  artifactKey: Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Mixed_AO.png using Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05762a0dc6de531fc3d8766f8f2f79d') in 0.042200 seconds 
+  Import took 0.056939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color 2.hdr
+  artifactKey: Guid(bdf51aaa8c595fd489ca6ac29006b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color 2.hdr using Guid(bdf51aaa8c595fd489ca6ac29006b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e106b1e513929770ac64421646d21b2f') in 0.053824 seconds 
+  Import took 0.070837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color emmesive.hdr
+  artifactKey: Guid(0886c0e4b6e88fc45b83b22092e8b8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color emmesive.hdr using Guid(0886c0e4b6e88fc45b83b22092e8b8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67492ebc962dcd2e1ebcfbe2e89e1cb1') in 0.035728 seconds 
+  Import took 0.047160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/iner.png
+  artifactKey: Guid(74bbac6cce5b5584f84349c71a45aaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/iner.png using Guid(74bbac6cce5b5584f84349c71a45aaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72a7f87ffb277d1aba109249b759b5f') in 0.013797 seconds 
+  Import took 0.032480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color1.png
+  artifactKey: Guid(fd62ef2b12249794bb40806d77d4eefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/trancpernt + base color1.png using Guid(fd62ef2b12249794bb40806d77d4eefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3a273ff110a57ae48e66e8ae53fc33') in 0.019939 seconds 
+  Import took 0.043079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Normal_DirectX.png
+  artifactKey: Guid(28975bea779fa4340835ed8ff138a750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Scene -1 Lib/textures/window/border.001_Normal_DirectX.png using Guid(28975bea779fa4340835ed8ff138a750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5036d71b6530709cb595c3f42b597a5') in 0.070893 seconds 
+  Import took 0.076940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.167375 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_albedo.jpg
+  artifactKey: Guid(613e917e1ad69644ab63eec0d7f83fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_albedo.jpg using Guid(613e917e1ad69644ab63eec0d7f83fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e229856caef07b88906a70fb6db021ab') in 0.214466 seconds 
+  Import took 0.231208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_opacity.jpg
+  artifactKey: Guid(c32f77f65830b504c9cb1be9d931dfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_opacity.jpg using Guid(c32f77f65830b504c9cb1be9d931dfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b0b2519c168f89620866fd2658bbb5') in 0.098210 seconds 
+  Import took 0.110406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_AO.jpg
+  artifactKey: Guid(e395056e4c16e5a4d85be46a170e3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_AO.jpg using Guid(e395056e4c16e5a4d85be46a170e3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090314b7a558314197cfe7ee480bdacb') in 0.103229 seconds 
+  Import took 0.108643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_albedo.jpg
+  artifactKey: Guid(95b4ba13964e57043904f5d0c3098220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_albedo.jpg using Guid(95b4ba13964e57043904f5d0c3098220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5caadfecd0444fae9819297d26a1d0ad') in 0.104561 seconds 
+  Import took 0.110565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_AO.jpg
+  artifactKey: Guid(d8f716fc36fc7944a8afed666dc4cd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_AO.jpg using Guid(d8f716fc36fc7944a8afed666dc4cd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044e0aa5099f9d8ce0ff7acb0d9032ed') in 0.093795 seconds 
+  Import took 0.112060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_albedo.jpg
+  artifactKey: Guid(3d2bec6478f36534bb4c2ad2486a4597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_albedo.jpg using Guid(3d2bec6478f36534bb4c2ad2486a4597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b319048e94abd2a091fab964b0ea5c') in 0.109171 seconds 
+  Import took 0.122570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_AO.jpg
+  artifactKey: Guid(900d3daf243087746887c03edced3e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_AO.jpg using Guid(900d3daf243087746887c03edced3e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faab98133901c010910bbef3dfe2907') in 0.104497 seconds 
+  Import took 0.141563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_opacity.jpg
+  artifactKey: Guid(5fe2c1a5be06fd34d81317798bcef26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_opacity.jpg using Guid(5fe2c1a5be06fd34d81317798bcef26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0659174ea3f73fe77620a6c3a505537') in 0.095407 seconds 
+  Import took 0.118824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_metallic.jpg
+  artifactKey: Guid(0aa8a5e7e1ebfb040b62bfecfed08f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_metallic.jpg using Guid(0aa8a5e7e1ebfb040b62bfecfed08f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25749e470c10a2beadf6c865e22a098') in 0.076495 seconds 
+  Import took 0.081556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_albedo.jpg
+  artifactKey: Guid(205536723eef41f4aba15be672fb549a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_albedo.jpg using Guid(205536723eef41f4aba15be672fb549a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ff4ccce7c401ca16f1d46d3f5b5a79') in 0.107840 seconds 
+  Import took 0.114081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_roughness.jpg
+  artifactKey: Guid(0b359ec6e8d1e484f980c65a46ac986a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_roughness.jpg using Guid(0b359ec6e8d1e484f980c65a46ac986a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102b1823fae4cb09279f0b83aa2ca3fe') in 0.080788 seconds 
+  Import took 0.087411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_roughness.jpg
+  artifactKey: Guid(0afc58aa61c94ff43b95616e8f4bd9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_roughness.jpg using Guid(0afc58aa61c94ff43b95616e8f4bd9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc490214313b183154b582efa361fc86') in 0.074755 seconds 
+  Import took 0.079622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_emissive.jpg
+  artifactKey: Guid(ec576a0ac4488ff48a098f38d6da3e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_2_emissive.jpg using Guid(ec576a0ac4488ff48a098f38d6da3e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedc39cc04a5ec52d3c97423aa52ee93') in 0.101165 seconds 
+  Import took 0.151216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_emissive.jpg
+  artifactKey: Guid(09ff8b3b0ea54fa40b62182858975d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_emissive.jpg using Guid(09ff8b3b0ea54fa40b62182858975d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe2636344126a2f1a49c95ca3516745') in 0.116426 seconds 
+  Import took 0.121496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_roughness.jpg
+  artifactKey: Guid(3552958328c73984e8586ccc665c0f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_roughness.jpg using Guid(3552958328c73984e8586ccc665c0f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305eaa77d713493a4e7cae1a2b0f9959') in 0.080688 seconds 
+  Import took 0.085767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_metallic.jpg
+  artifactKey: Guid(45157679c3543d24e961ce4f3aec785e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/book_metallic.jpg using Guid(45157679c3543d24e961ce4f3aec785e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc73edc3507eeaa96bad585df6b7744') in 0.088118 seconds 
+  Import took 0.102266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_albedo.jpg
+  artifactKey: Guid(ff8a7ef9a3c5f654397ee0f06b63a51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_albedo.jpg using Guid(ff8a7ef9a3c5f654397ee0f06b63a51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc13fbf80ae3e65613f4391ed27cc9b7') in 0.104250 seconds 
+  Import took 0.120249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_roughness.jpg
+  artifactKey: Guid(5ffde3b0b48197d4cb3f2ea442e0f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_roughness.jpg using Guid(5ffde3b0b48197d4cb3f2ea442e0f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1abfbcc870fbf845ad708aa9ec890ad0') in 0.072056 seconds 
+  Import took 0.099239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_roughness.jpg
+  artifactKey: Guid(cca03689daa094c468847c53f4a836be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_roughness.jpg using Guid(cca03689daa094c468847c53f4a836be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6687a05508fa15b445628edd2a3e5008') in 0.093413 seconds 
+  Import took 0.109598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_metallic.jpg
+  artifactKey: Guid(a42b2bb2037ef2b4eb2532b9afb9f9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_metallic.jpg using Guid(a42b2bb2037ef2b4eb2532b9afb9f9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a465a219bef06b2c861509421dc7ad69') in 0.064391 seconds 
+  Import took 0.081231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_metallic.jpg
+  artifactKey: Guid(22c573e4b4a37f942a16c52c56cfdd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_2_metallic.jpg using Guid(22c573e4b4a37f942a16c52c56cfdd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f20247390b7457c05e17c18b62fed10') in 0.069666 seconds 
+  Import took 0.086992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_albedo.jpg
+  artifactKey: Guid(bba474296e4a3fa488d1bb6c807e8c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_albedo.jpg using Guid(bba474296e4a3fa488d1bb6c807e8c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3289735eabda21ce6543a9af9eeb8aa') in 0.101446 seconds 
+  Import took 0.120558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_metallic.jpg
+  artifactKey: Guid(c4d8c4582736f814884f26df87fa329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_3_metallic.jpg using Guid(c4d8c4582736f814884f26df87fa329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e054778b046c81e54c5d027ce2242a6') in 0.097850 seconds 
+  Import took 0.114697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_roughness.jpg
+  artifactKey: Guid(96acdcbaaa53f104ea340df22e9f0da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_roughness.jpg using Guid(96acdcbaaa53f104ea340df22e9f0da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d991f73891f4ede0555a760bc1b29f') in 0.085269 seconds 
+  Import took 0.126381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_metallic.jpg
+  artifactKey: Guid(ee9a7057cb321354ea823907edf20956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/circle_1_metallic.jpg using Guid(ee9a7057cb321354ea823907edf20956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eaa16f62c99f65314f1ee21d0e8f3e0') in 0.070691 seconds 
+  Import took 0.085945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_emissive.jpg
+  artifactKey: Guid(7e85b286ea2827741989565a53d7ba5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/flying-magic-book_95ee5c76e08442a5ad00e2b02a8270b9/textures/page_1_emissive.jpg using Guid(7e85b286ea2827741989565a53d7ba5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51393b73ba83c32f7ab979df34bdd7f1') in 0.092009 seconds 
+  Import took 0.153029 seconds .
+
