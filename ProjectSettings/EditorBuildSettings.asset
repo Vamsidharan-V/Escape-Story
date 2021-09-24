@@ -11,12 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Story Mode.unity
     guid: 6679ba46f35df2745938bd7e233b6ac6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene - 0.unity
     guid: 782485ba2ad265043a4a89c03b76300c
   - enabled: 0
-    path: Assets/Scenes/Scene - 2.unity
-    guid: 75ef0d4b1de37614488b333e03c01efe
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Scene - 1.unity
     guid: bec581136d874eb4fb47f51f7d491024
